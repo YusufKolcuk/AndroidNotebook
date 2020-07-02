@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964481258218",
+    "firebase_url": "https://pinsoftnotdefteri.firebaseio.com",
+    "project_id": "pinsoftnotdefteri",
+    "storage_bucket": "notdefterimpinsoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964481258218:android:77132a1825ef34e9c3fd93",
+        "android_client_info": {
+          "package_name": "com.yusufkolcuk.notdefterimpinsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964481258218-ctsbkcqq7h5g30rslg746phtg40aauad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLzVTZOXFO_DBKf1mNVKslP7_MmpjLV7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964481258218-ctsbkcqq7h5g30rslg746phtg40aauad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

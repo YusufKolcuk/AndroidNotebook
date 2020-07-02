@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/sea"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.yusufkolcuk.notdefterimpinsoft.LoginPage">
+
+
+    <ImageView
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:src="@drawable/pinsoft"
+        android:layout_gravity="center"
+
+        />
+
+
+    <EditText
+        android:id="@+id/loginMail"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Mail Adresinizi Girin"/>
+
+    <EditText
+        android:id="@+id/loginParola"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Parolanızı girin"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:id="@+id/loginButon"
+        android:layout_margin="40dp"
+        android:layout_gravity="center"
+        android:background="@drawable/btn_main_arkaplan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giriş Yap"
+        android:fontFamily="sans-serif"
+        android:textSize="@dimen/btn_size"
+        android:textAllCaps="false"
+        android:layout_centerHorizontal="true"
+        android:paddingLeft="@dimen/btn_padding_sol_sag"
+        android:paddingRight="@dimen/btn_padding_sol_sag"
+        android:paddingTop="@dimen/btn_padding_asagi_yukari"
+        android:paddingBottom="@dimen/btn_padding_asagi_yukari"
+        android:textColor="@color/btn_text_renk_degistir"
+        />
+
+
+</LinearLayout>

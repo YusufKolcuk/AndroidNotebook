@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#1ce5ea</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btn_text_color">#ea6a1c</color>
+    <color name="tamamlanmadi">#3ce40f04</color>
+    <color name="tamamlandi">#3c50e117</color>
+
+</resources>
